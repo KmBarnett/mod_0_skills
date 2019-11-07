@@ -1,0 +1,70 @@
+Becoming a Turing student
+
+1.intro_to_coding
+	1.1 Intrest
+		1.1 are you interested in coding 
+			if yes
+			1.1.1 proceed to step 1.2
+			if no
+			1.1.1 stop your done here
+			if else
+			1.1.1 google coding
+			1.1.2 see if you like
+			1.1.3 you're interested move to step 1.2
+	1.2 research
+		1.2.1 google coding schools
+		1.2.2 see if any programs are what you like
+		1.2.3 see Turing try coding event on Facebook
+		1.2.4 sign up and proceed to step 1.3
+	1.3 try coding
+		1.3.1 get there
+		1.3.2 back end
+		1.3.3 front end
+		1.3.4 talk to faculty during free lunch
+	1.4 do you like coding
+		if yes then 
+		1.4.1 pick Turing
+		1.4.2 proceed to step 2
+		if no
+		1.4.1 you are done here
+		if else
+		1.4.1 repeat step 1.2
+		
+2.apply
+	2.1 find Turing application
+	2.2 fill it out
+	2.3 take logic assessment
+	2.4 did you get in
+		if yes
+		2.4.1 move to step 3
+		if no
+		2.4.1 do you want to give up
+			if yes
+			2.4.1.1 you are done here
+			if no
+			2.4.1.1try again 		
+3.acceptance
+	3.1 select cohort
+	3.2 select mod 0
+4.mod 0
+	4.1 session 1
+		4.1.1 do homework
+	4.2 session 2	
+		4.2.1 do homework
+	4.3 session 3
+		4.3.1 do homework
+	4.4 session 4
+		4.4.1 do homework
+	4.5 session 5
+		4.5.1 take test
+	4.6 session 6
+		4.6.1 take survey
+	4.7 did you pass mod0
+		if yes
+		4.7.1 move to step 5
+		if no
+		4.7.1 repeat step 4
+		if else
+		4.7.1 fix work repeat step 4.7
+
+5.your in
