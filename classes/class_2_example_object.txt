@@ -1,0 +1,16 @@
+Attributes:
+type "Pork"
+weightLb (8)
+tempF (76)
+stock (boolean)
+
+Methods
+checkType "Pork"
+trim(4) weight = (4)
+cook(165)
+tempF = 140
+tempF = 148
+tempF = 156
+tempF = 160
+tempF = 165
+checkStock true
