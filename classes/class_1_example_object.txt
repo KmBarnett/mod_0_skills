@@ -1,0 +1,13 @@
+New dish
+Attributes:
+vegetarian: false
+name: "Chicken Alfredo"
+ingredients [Chicken, Alfredo, pasta, Italian herbs, Parmesan]
+WeightGrams (360)
+
+
+Methods
+checkVegetarian (true)
+changeName  "Parmesan Chicken Alfredo" dish name is changed to "Parmesan Chicken Alfredo"
+listIngredients [Chicken, Alfredo, pasta, Italian herbs, Parmesan]
+checkWeight (360)

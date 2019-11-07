@@ -3,11 +3,11 @@ Attributes:
 vegetarian (boolean)
 name (string)
 ingredients(array)
-weight (integer)
-plate (integer)
+WeightGrams (integer)
+)
 
 Methods
 checkVegetarian checks if dish is vegetarian
 changeName adds or changes the name of a dish
 listIngredients shows ingredients
-checkWeight checks weight - plate
+checkWeight checks weightGrams
