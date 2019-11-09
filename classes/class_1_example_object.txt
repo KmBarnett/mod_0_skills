@@ -10,4 +10,4 @@ Methods
 changeName("Parmesan Chicken Alfredo") dish name is changed to "Parmesan Chicken Alfredo"
 addIngredient(pepper) pepper added to ingredients array
 placeOrder(3) 6+3 = 9
-change_cost(12.95) menu_price changed from 11.95 to 12.95
+change_cost(1.00) menu_price changed from 11.95 to 12.95
