@@ -1,13 +1,13 @@
-Dish
+Menu_Item
 Attributes:
-vegetarian (boolean)
 name (string)
 ingredients(array)
-WeightGrams (integer)
-)
+current_orders (integer)
+menu_price(float)
+
 
 Methods
-checkVegetarian checks if dish is vegetarian
-changeName adds or changes the name of a dish
-listIngredients shows ingredients
-checkWeight checks weightGrams
+changeName() adds or changes the name of a dish
+addIngredient() adds an ingredient
+placeOrder() current_orders + x amount of orders to current_orders
+change_cost changes menu price

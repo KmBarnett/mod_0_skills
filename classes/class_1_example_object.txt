@@ -1,13 +1,13 @@
-New dish
+Chicken Alfredo
 Attributes:
-vegetarian: false
 name: "Chicken Alfredo"
-ingredients [Chicken, Alfredo, pasta, Italian herbs, Parmesan]
-WeightGrams (360)
+ingredients ["chicken"," alfredo sauce", "pasta", "italian herbs", "parmesan"]
+current_orders 6
+menu_price 11.95
 
 
 Methods
-checkVegetarian (true)
-changeName  "Parmesan Chicken Alfredo" dish name is changed to "Parmesan Chicken Alfredo"
-listIngredients [Chicken, Alfredo, pasta, Italian herbs, Parmesan]
-checkWeight (360)
+changeName("Parmesan Chicken Alfredo") dish name is changed to "Parmesan Chicken Alfredo"
+addIngredient(pepper) pepper added to ingredients array
+placeOrder(3) 6+3 = 9
+change_cost(12.95) menu_price changed from 11.95 to 12.95
