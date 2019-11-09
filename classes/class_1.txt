@@ -6,7 +6,7 @@ current_orders (integer)
 menu_price(float)
 
 
-Methods
+Methods:
 changeName() adds or changes the name of a dish
 addIngredient() adds an ingredient
 placeOrder() current_orders + x amount of orders to current_orders

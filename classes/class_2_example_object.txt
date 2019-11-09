@@ -5,7 +5,7 @@ tempF 42
 seasoning ["salt", "pepper", "cayenne pepper", "garlic", "powdered onion"]
 cookStyle "Grilled"
 
-Methods
+Methods:
 change_cookStyle(Baked) changes cookStyle from Grilled to Baked
 trim(4) weight = (4)
 cook(165) tempF = 165

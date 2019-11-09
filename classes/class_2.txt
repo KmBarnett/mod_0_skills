@@ -4,8 +4,8 @@ weightLb (integer)
 tempF (integer)
 seasoning (array)
 cookStyle "string"
-Methods
+Methods:
 change_cookStyle() changes cookStyle
 trim() changes value of Weight to a <set value
-cook() checks tempF ever minute till it reaches designated Temp
+cook() checks tempF every minute till it reaches designated Temp
 remove_seasoning() removes a listed seasoning

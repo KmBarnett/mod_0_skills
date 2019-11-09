@@ -6,7 +6,7 @@ current_orders 6
 menu_price 11.95
 
 
-Methods
+Methods:
 changeName("Parmesan Chicken Alfredo") dish name is changed to "Parmesan Chicken Alfredo"
 addIngredient(pepper) pepper added to ingredients array
 placeOrder(3) 6+3 = 9
