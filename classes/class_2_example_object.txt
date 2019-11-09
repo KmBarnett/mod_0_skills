@@ -1,17 +1,12 @@
-Ham
+Pork
 Attributes:
-type "Pork"
-weightLb (8)
-tempF (76)
-stock (boolean)
+weightLb 8
+tempF 42
+seasoning ["salt", "pepper", "cayenne pepper", "garlic", "powdered onion"]
+cookStyle "Grilled"
 
 Methods
-checkType "Pork"
+change_cookStyle(Baked) changes cookStyle from Grilled to Baked
 trim(4) weight = (4)
-cook(165)
-tempF = 140
-tempF = 148
-tempF = 156
-tempF = 160
-tempF = 165
-checkStock true
+cook(165) tempF = 165
+remove_seasoning("cayenne pepper") "cayenne pepper" is removed from seasoning array
