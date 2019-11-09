@@ -1,12 +1,11 @@
 Meat
 Attributes:
-type (string)
 weightLb (integer)
 tempF (integer)
-stock (boolean)
-
+seasoning (array)
+cookStyle "string"
 Methods
-checkType grabs value of Type
+change_cookStyle() changes cookStyle
 trim() changes value of Weight to a <set value
 cook() checks tempF ever minute till it reaches designated Temp
-checkStock() checks if in stock
+remove_seasoning() removes a listed seasoning
